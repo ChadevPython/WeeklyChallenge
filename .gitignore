@@ -90,3 +90,6 @@ ENV/
 
 # JetBrains (PyCharm)
 .idea
+
+# macOS
+*.DS_Store
